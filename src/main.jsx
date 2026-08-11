@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './styles.css'
 
 function App() {
-  return null
+  return <main>안녕하세요</main>
 }
 
 createRoot(document.getElementById('root')).render(
